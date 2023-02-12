@@ -1,4 +1,4 @@
-<h1>DeepInAI</h1>
+<h1>DeepIntoAI</h1>
 
 <br>
 
